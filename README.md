@@ -48,11 +48,10 @@ void helper2(int n , string s, int i, int j){
 
 
 int main() {
- int n ;
-    cin>>n;
-    
+
+    int n ;
+    cin>>n;  
     helper2(n,"",0,0);
-    
 
     return 0;
 }
